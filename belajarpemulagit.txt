@@ -1,1 +1,2 @@
 ini adalah belajar pertama
+ini tambahan untuk commit pertama
